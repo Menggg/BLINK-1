@@ -1,5 +1,8 @@
 ## BLINK
 This is the R version of BLINK model. You can find the C version [here](https://github.com/Menggg/BLINK)
+
+Publication and citation could be found here: https://academic.oup.com/gigascience/article/8/2/giy154/5238723
+
 ## Installation
     install.packages("devtools")
 
